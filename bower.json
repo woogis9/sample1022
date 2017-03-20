@@ -11,8 +11,7 @@
   "install": {
     "path": {
       "css": "WEB-INF/view/css",
-      "js": "WEB-INF/view/js",
-      "jsp": "WEB-INF/view"
+      "js": "WEB-INF/view/js"
     }
   },
   "ignore": [

@@ -1,0 +1,25 @@
+{
+  "name": "sample1022_01.git",
+  "version": "0.0.1",
+  "authors": [
+    "woogis9 <woogis9@daum.net>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "homepage": "https://github.com/woogis9/sample1022",
+  "install": {
+    "path": {
+      "css": "WEB-INF/view/css",
+      "js": "WEB-INF/view/js",
+      "jsp": "WEB-INF/view"
+    }
+  },
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
